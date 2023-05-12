@@ -17,12 +17,14 @@ module.exports = {
     container: {
       center: true,
       padding: "1rem"
+      
     },
     colors: {
       transparent: "transparent",
       current: "currentColor",
       white: "#ffffff",
       accent: "#8358FF",
+      "pepsi-blue": "045ED5",
       "accent-dark": "#7444FF",
       "accent-light": "#9E7CFF",
       "accent-lighter": "#B9A0FF",
@@ -31,6 +33,7 @@ module.exports = {
       orange: "#FEB240",
       "orange-bright": "#FA6D1E",
       red: "#EF4444",
+      "pepsi-blue": "045ED5",
       blue: "#428AF8",
       jacarta: {
         base: "#5A5D79",
